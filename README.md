@@ -24,7 +24,7 @@ AI와 백엔드 개발을 공부하는 예비 개발자입니다.
 **AI / LLM**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
 
 **Backend / Tools**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -40,7 +40,7 @@ AI와 백엔드 개발을 공부하는 예비 개발자입니다.
 - **Pipeline:** Whisper STT → IBM watsonx LLM → Supertone TTS
 - 최근 대화 5쌍을 활용한 멀티턴 대화 관리 및 시스템 프롬프트 구성
 - 실패한 응답의 이력 제외, 응답 후처리 등 연동 안정성 고려
-- **참고:** 링크된 저장소는 레거시 코드 보관용이며, 종료된 외부 TTS 서비스로 인해 전체 음성 대화는 현재 실행할 수 없습니다.
+- **참고: 링크된 저장소는 레거시 코드 보관용으로, 종료된 외부 TTS 서비스로 인해 전체 음성 대화는 현재 실행할 수 없습니다.**
 
 ### [COMPICK — PC Shopping & Recommendation](https://github.com/seoinseok01/multicampus8_1team_COMPICK)
 
