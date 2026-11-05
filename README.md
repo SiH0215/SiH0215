@@ -4,8 +4,6 @@
 
 **LLM Applications · RAG · Backend Development**
 
-AI 개발자 꿈나무
-
 [Projects](#featured-projects) · [Tech Stack](#tech-stack) · [GitHub](https://github.com/SiH0215)
 
 </div>
@@ -13,11 +11,7 @@ AI 개발자 꿈나무
 ---
 
 ## About Me
-
-- Python 기반 **LLM 애플리케이션**, 대화 관리, RAG 및 Agent 구조를 학습하고 구현합니다.
-- Java와 Spring Boot를 활용한 백엔드 개발을 경험했습니다.
-- 외부 API 연동 시 **입출력 형식 검증**, 예외 처리, 데이터 흐름의 안정성을 중요하게 생각합니다.
-- 팀 프로젝트에서는 기능 구현뿐 아니라 모듈 간 연동과 통합 과정에도 참여했습니다.
+AI와 백엔드 개발을 공부하는 예비 개발자입니다.
 
 ## Tech Stack
 
