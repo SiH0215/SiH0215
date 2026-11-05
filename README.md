@@ -58,7 +58,6 @@ LangChain을 활용한 LLM 애플리케이션 구성 요소를 단계별로 구�
 - Gemini 모델 연동, Prompt / Runnable / 구조화 출력 실습
 - 문서 검색과 기본 RAG, **History-Aware RAG** 비교
 - 대화 기록 관리, Tool 및 Agent 호출 예제
-- 외부 API 없이 실행 가능한 일부 오프라인 테스트 포함
 
 ### [Regression Analysis with R](https://github.com/SiH0215/statex77-murder-regression)
 
