@@ -2,7 +2,7 @@
 
 # SiH | AI Developer
 
-**LLM Applications · RAG · Backend Development**
+**LLM Applications · RAG · Full-Stack Development**
 
 [Projects](#featured-projects) · [Tech Stack](#tech-stack) · [GitHub](https://github.com/SiH0215)
 
@@ -25,6 +25,11 @@ AI와 풀스택 개발을 공부하는 예비 개발자입니다.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Backend / Tools**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
