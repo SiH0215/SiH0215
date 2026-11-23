@@ -46,14 +46,7 @@ AI와 풀스택 개발을 공부하는 예비 개발자입니다.
 - **주요 기능:** 텍스트·음성 멀티턴 대화, 지난 대화 검색, 일기 요약 및 대화 전문 열람
 - 2025 IBM 하계해커톤에서 개발한 프로젝트를 개선/보완
 
-### [COMPICK — PC Shopping & Recommendation](https://github.com/seoinseok01/multicampus8_1team_COMPICK)
 
-사용자의 예산과 용도를 고려하는 AI 추천 기능을 포함한 조립 PC 쇼핑몰 팀 프로젝트입니다.
-
-- **Stack:** Java, Spring Boot, JPA, Oracle, Gemini API
-- AI 추천 결과의 JSON 필수값과 상품 식별 정보 검증
-- 추천 결과를 내부 상품 데이터와 매핑하고 응답 오류 유형에 따라 처리
-- **Role:** AI 추천 기능 연동 및 응답 검증 로직 개발 참여
 
 ### [LangChain Study — RAG & Agents](https://github.com/SiH0215/langchain-study)
 
