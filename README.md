@@ -46,7 +46,13 @@ AI와 풀스택 개발을 공부하는 예비 개발자입니다.
 - **주요 기능:** 텍스트·음성 멀티턴 대화, 지난 대화 검색, 일기 요약 및 대화 전문 열람
 - 2025 IBM 하계해커톤에서 개발한 프로젝트를 개선/보완
 
+### [COMPICK — 조립 PC 쇼핑몰](https://github.com/SiH0215/COMPICK)
 
+사용자가 부품을 직접 고르거나 추천·AI 견적을 참고하여 PC를 구성하고, 장바구니에서 주문으로 이어갈 수 있는 쇼핑몰 팀 프로젝트입니다.
+
+- **기술 스택:** Java, Spring Boot, Thymeleaf, JPA, Oracle, Gemini
+- **주요 기능:** 부품 탐색, 직접·추천·AI 견적, 장바구니·주문, 회원·배송지 및 관리자 기능
+- [페이지별 설명](https://github.com/SiH0215/COMPICK/blob/main/docs/PAGES.md) · [주요 기능 상세](https://github.com/SiH0215/COMPICK/blob/main/docs/FEATURES.md)
 
 ### [LangChain Study — RAG & Agents](https://github.com/SiH0215/langchain-study)
 
