@@ -33,14 +33,11 @@ AI와 백엔드 개발을 공부하는 예비 개발자입니다.
 
 ## Featured Projects
 
-### [MUMU — Voice AI Chatbot](https://github.com/SiH0215/MUMU-legacy)
+### [MUMU — 대화를 위한 챗봇](https://github.com/SiH0215/MUMU)
 
-음성 인식, LLM 대화 생성, 음성 합성을 연결한 대화형 챗봇 프로젝트입니다.
+편하게 일상 이야기를 나눌 수 있는 말동무 챗봇입니다. 텍스트나 음성으로 대화하고, 지난 대화를 참고하여 이야기를 이어갑니다. 나눈 대화는 무무의 일기로 정리하여 다시 볼 수 있습니다.
 
-- **Pipeline:** Whisper STT → IBM watsonx LLM → Supertone TTS
-- 최근 대화 5쌍을 활용한 멀티턴 대화 관리 및 시스템 프롬프트 구성
-- 실패한 응답의 이력 제외, 응답 후처리 등 연동 안정성 고려
-- **참고: 링크된 저장소는 레거시 코드 보관용으로, 종료된 외부 TTS 서비스로 인해 전체 음성 대화는 현재 실행할 수 없습니다.**
+- **Stack:** Python, Flask, LangChain, Gemini, Whisper, Silero VAD, SQLite
 
 ### [COMPICK — PC Shopping & Recommendation](https://github.com/seoinseok01/multicampus8_1team_COMPICK)
 
