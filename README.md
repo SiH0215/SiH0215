@@ -33,7 +33,7 @@ AI와 백엔드 개발을 공부하는 예비 개발자입니다.
 
 ## Featured Projects
 
-### [MUMU — 대화를 위한 챗봇](https://github.com/SiH0215/MUMU)
+### [MUMU Voice Chatbot — 대화를 위한 챗봇](https://github.com/SiH0215/MUMU)
 
 음성 인식, LLM 대화 생성, 음성 합성을 연결한 대화형 챗봇 프로젝트입니다.
 
