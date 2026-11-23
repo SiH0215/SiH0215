@@ -52,7 +52,7 @@ AI와 풀스택 개발을 공부하는 예비 개발자입니다.
 
 - **기술 스택:** Java, Spring Boot, Thymeleaf, JPA, Oracle, Gemini
 - **주요 기능:** 부품 탐색, 직접·추천·AI 견적, 장바구니·주문, 회원·배송지 및 관리자 기능
-- [페이지별 설명](https://github.com/SiH0215/COMPICK/blob/main/docs/PAGES.md) · [주요 기능 상세](https://github.com/SiH0215/COMPICK/blob/main/docs/FEATURES.md)
+- \[현대이지웰\] JAVA 풀스택 개발자 아카데미 8회차 최종과제
 
 ### [LangChain Study — RAG & Agents](https://github.com/SiH0215/langchain-study)
 
